@@ -1,0 +1,7 @@
+C:\Users\Emilio\Desktop\Semestre 9\Integracion de sistemas\TallerSOAP\MiSoap\MiSoap\bin\MiSoap.dll.config
+C:\Users\Emilio\Desktop\Semestre 9\Integracion de sistemas\TallerSOAP\MiSoap\MiSoap\bin\MiSoap.dll
+C:\Users\Emilio\Desktop\Semestre 9\Integracion de sistemas\TallerSOAP\MiSoap\MiSoap\bin\MiSoap.pdb
+C:\Users\Emilio\Desktop\Semestre 9\Integracion de sistemas\TallerSOAP\MiSoap\MiSoap\obj\Debug\MiSoap.csproj.AssemblyReference.cache
+C:\Users\Emilio\Desktop\Semestre 9\Integracion de sistemas\TallerSOAP\MiSoap\MiSoap\obj\Debug\MiSoap.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Desktop\Semestre 9\Integracion de sistemas\TallerSOAP\MiSoap\MiSoap\obj\Debug\MiSoap.dll
+C:\Users\Emilio\Desktop\Semestre 9\Integracion de sistemas\TallerSOAP\MiSoap\MiSoap\obj\Debug\MiSoap.pdb
